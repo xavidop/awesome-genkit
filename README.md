@@ -6,7 +6,7 @@
 
 # Awesome Genkit <!-- omit from toc -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-genkit/) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-genkit/actions/workflows/lint.yaml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/) 
 
 <!-- subtitle -->
 
@@ -75,22 +75,21 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 1. Model / Embedding Plugins
    - [`genkitx-github`](https://github.com/xavidop/genkitx-github) - Plugin for GitHub Models APIs.
-   - [`genkitx-anthropic`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/anthropic) - Plugin for Anthropic AI APIs.
-   - [`genkitx-cohere`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/cohere) - Plugin for Cohere APIs.
-   - [`genkitx-groq`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/groq) - Plugin for Groq APIs.
-   - [`genkitx-mistral`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/mistral) - Plugin for Mistral AI APIs.
+   - [`genkitx-anthropic`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/anthropic) - Plugin for Anthropic AI APIs.
+   - [`genkitx-cohere`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/cohere) - Plugin for Cohere APIs.
+   - [`genkitx-groq`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq) - Plugin for Groq APIs.
+   - [`genkitx-mistral`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral) - Plugin for Mistral AI APIs.
    - [`genkitx-openai`](https://genkit.dev/docs/plugins/openai/) - Plugin for OpenAI APIs.
-   - [`genkitx-azure-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
+   - [`genkitx-azure-openai`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
    - [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) - Plugin for AWS Bedrock APIs.
    - [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) - Plugin for Deepseek Cloud APIs.
-   - [`genkitx-huggingface`](https://github.com/xavidop/genkitx-huggingface) - Plugin for Hugging Face Inference APIs.
+   - [`genkitx-huggingface`](https://github.com/aciescrest/genkit-huggingface) - Plugin for Hugging Face Inference APIs.
 2. Vector Store Plugins
-   - [`genkitx-convex`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/convex) - Plugin for Convex Vector Stores.
-   - [`genkitx-hnsw`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/hnsw) - Plugin for HNSW Vector Stores.
+   - [`genkitx-convex`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/convex) - Plugin for Convex Vector Stores.
+   - [`genkitx-hnsw`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/hnsw) - Plugin for HNSW Vector Stores.
    - [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) - Plugin for Qdrant Vector Stores.
    - [`genkitx-astra-db`](https://genkit.dev/docs/plugins/astra-db/) - Plugin for AstraDB Vector Stores.
    - [`genkitx-pgvector`](https://genkit.dev/docs/plugins/pgvector/) - Plugin for PostgeSQL (PGVector) Vector Stores.
-   - [`genkitx-tidb`](https://github.com/BelfoSamad/genkitx-tidb) - Plugin for TiDB Vector Stores.
    - [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) - Plugin for Redis Vector Stores.
    - [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) - Plugin for Voiceflow KB.
    - [`genkitx-lancedb`](https://genkit.dev/docs/plugins/lancedb/) - Plugin for LanceDB Vector Stores.
@@ -104,7 +103,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkitx-graph`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/graph) - Plugin for building Graph workflows.
    - [`@invertase/genkit-plugin-redis`](https://github.com/invertase/genkit-plugin-redis) - A Redis Plugin for Genkit that adds Redis for efficient state storage, trace storage, caching, and rate limiting.
    - [`genkitx-rxjs`](https://github.com/pavelgj/genkitx-rxjs) - A simple RxJS helper/adapter for Genkit.
-   - [`@agentic/genkit`](https://agentic.so/sdks/genkit) - Agentic Tools adapter for the Genkit SDK.
+   - [`@agentic/genkit`](https://docs.agentic.so/marketplace/ts-sdks/genkit) - Agentic Tools adapter for the Genkit SDK.
    - [`@auth0/ai-genkit`](https://genkit.dev/docs/plugins/auth0/) - Official Auth0 plugin for Genkit that provides authentication and authorization capabilities.
 
 ### Python - Official
@@ -208,7 +207,6 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 - [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
 - [Genkit GitHub](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
-- [The Fire Company](https://github.com/TheFireCo) - The Fire Company GitHub organization.
 
 ## Contributors
 
