@@ -41,6 +41,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
   - [Golang - Official](#golang---official)
   - [Golang - Community](#golang---community)
 - [Client Libraries](#client-libraries)
+  - [Dart - Official](#dart---official)
 - [API References](#api-references)
 - [Solutions](#solutions)
 - [Talks](#talks)
@@ -64,7 +65,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`@genkit-ai/compat-oai/xai`](https://genkit.dev/docs/plugins/xai/) - Plugin for XAI APIs.
    - [`@genkit-ai/compat-oai/openai`](https://genkit.dev/docs/plugins/openai/) - Plugin for OpenAI APIs.
 2. Vector Store Plugins
-   - [`@genkit-ai/dev-local-vectorstore`](https://firebase.google.com/docs/genkit/rag) - Plugin for Local Vector Store for development purposes.
+   - [`@genkit-ai/dev-local-vectorstore`](https://genkit.dev/docs/rag/) - Plugin for Local Vector Store for development purposes.
 3. Other Plugins
    - [`@genkit-ai/firebase`](https://genkit.dev/docs/plugins/firebase/) - Firebase plugin provides several integrations with Firebase services: Indexers and retrievers using Cloud Firestore vector store, Trace storage using Cloud Firestore, Flow deployment using Cloud Functions, Authorization policies for Firebase Authentication users.
    - [`@genkit-ai/express`](https://genkit.dev/docs/plugins/express/) - Express plugin provides an Express middleware for Genkit.
