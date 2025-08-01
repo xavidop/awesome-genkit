@@ -79,7 +79,6 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkitx-cohere`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/cohere) - Plugin for Cohere APIs.
    - [`genkitx-groq`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq) - Plugin for Groq APIs.
    - [`genkitx-mistral`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral) - Plugin for Mistral AI APIs.
-   - [`genkitx-openai`](https://genkit.dev/docs/plugins/openai/) - Plugin for OpenAI APIs.
    - [`genkitx-azure-openai`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
    - [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) - Plugin for AWS Bedrock APIs.
    - [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) - Plugin for Deepseek Cloud APIs.
@@ -139,8 +138,6 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 1. Model / Embedding Plugins
    - [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
-2. Vector Store Plugins
-   - [`redis`](
 
 ## Client Libraries
 
