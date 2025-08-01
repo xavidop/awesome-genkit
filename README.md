@@ -49,7 +49,6 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Articles](#articles)
 - [Tutorials](#tutorials)
 - [Follow](#follow)
-- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -204,7 +203,3 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 - [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
 - [Genkit GitHub](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
-
-## Contributors
-
-[Thanks goes to these contributors](https://github.com/xavidop/awesome-genkit/graphs/contributors)!
