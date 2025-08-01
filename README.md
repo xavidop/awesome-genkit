@@ -119,9 +119,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 1. Model / Embedding Plugins
    - [`googlegenai`](https://genkit.dev/go/docs/plugins/google-genai/) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI Models.
    - [`ollama`](https://genkit.dev/go/docs/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
-   - [`compat_oai`](https://genkit.dev/go/docs/plugins/openai/) - Plugin for Compatible OpenAI APIs.
-   - [`compat_oai/openai`](https://genkit.dev/go/docs/plugins/openai/#openai-provider) - Plugin for OpenAI APIs.
-   - [`compat_oai/anthropic`](https://genkit.dev/go/docs/plugins/openai/#anthropic-provider) - Plugin for Anthropic APIs.
+   - [`compat_oai,compat_oai/openai,compat_oai/anthropic`](https://genkit.dev/go/docs/plugins/openai/) - Plugin for Compatible OpenAI APIs (OpenAI, Anthropic providers).
 2. Vector Store Plugins
    - [`pinecone`](https://genkit.dev/go/docs/plugins/pinecone/) - Plugin for Pinecone Vector Stores.
    - [`alloydb`](https://genkit.dev/go/docs/plugins/alloydb/) - Plugin for AlloyDB Vector Stores.
