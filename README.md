@@ -170,7 +170,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkit-plugin-openai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/openai) - Plugin for OpenAI models (GPT-4o, GPT-4o-mini, etc.) and embeddings.
    - [`genkit-plugin-google-genai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/google-genai) - Plugin for Google Gemini models and Imagen image generation.
    - [`genkit-plugin-anthropic`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/anthropic) - Plugin for Anthropic Claude models.
-   - [`genkit-plugin-aws-bedrock`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/aws-bedrock) - Plugin for AWS Bedrock models (Amazon Nova, Claude, LlaMA, Mistral, etc.).
+   - [`genkit-plugin-aws-bedrock`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/aws-bedrock) - Plugin for AWS Bedrock models (Amazon Nova, Claude, LLaMA, Mistral, etc.).
    - [`genkit-plugin-azure-foundry`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/azure-foundry) - Plugin for Azure AI Foundry models.
    - [`genkit-plugin-xai`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/xai) - Plugin for XAI (x.ai) Grok models.
    - [`genkit-plugin-deepseek`](https://github.com/genkit-ai/genkit-java/tree/main/plugins/deepseek) - Plugin for DeepSeek models.
