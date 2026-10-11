@@ -249,6 +249,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e) - A comprehensive guide to using the Dart client library for calling Genkit flows from Flutter and Dart applications with streaming support and type safety.
 - [Gemini in your Slack workspace using Firebase & Genkit](https://dev.to/denisvalasek/gemini-in-your-slack-workspace-using-firebase-genkit-530c) - Learn how to integrate Gemini using Genkit as a Slackbot.
 - [Set up RAG with Genkit and Firebase in 15 minutes](https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2) - Introduction to RAG, Genkit and using Firebase Firestore as Vector DB.
+- [LinkedIn profiles in Genkit: a LinkedIn tool through MCP or ai.defineTool](https://datacircle.dev/blog/linkedin-profiles-genkit) - Give a Genkit app a tool that reads a LinkedIn profile from its URL, through Datacircle's MCP server or one ai.defineTool.
 
 ## Tutorials
 
